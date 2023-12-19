@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfi
 
 @SpringBootApplication(exclude = {SecurityAutoConfiguration.class})
 public class GroupProjectApplication {
-	// 測試 branch3
+	// 測試 branch4
 
 	public static void main(String[] args) {
 		SpringApplication.run(GroupProjectApplication.class, args);
